@@ -24,7 +24,7 @@ Installation
 Step 1: Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/marvel.git
+git clone https://github.com/meharahmadft6/marvel.git
 cd marvel
 Step 2: Install Dependencies
 bash
