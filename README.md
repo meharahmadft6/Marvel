@@ -24,7 +24,7 @@ Installation
 Step 1: Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/namrvel.git
+git clone https://github.com/your-username/marvel.git
 cd marvel
 Step 2: Install Dependencies
 bash
@@ -43,7 +43,7 @@ Copy code
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=namrvel
+DB_DATABASE=marvel
 DB_USERNAME=your_database_user
 DB_PASSWORD=your_database_password
 Step 4: Generate Application Key
